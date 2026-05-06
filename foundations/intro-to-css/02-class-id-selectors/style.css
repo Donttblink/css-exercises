@@ -3,3 +3,15 @@
   background-color: rgb(235, 156, 169);
   font-family: Verdana, Dejavu Sans, sans-serif;  
 }
+.big {
+  font-size: 24px;
+}
+#blue-text {
+  color: blue;
+  font-size: 36px;
+}
+#green-back {
+  background-color: hsl(100, 100%, 70%);
+  font-size: 24px;
+  font-weight:bold
+}
